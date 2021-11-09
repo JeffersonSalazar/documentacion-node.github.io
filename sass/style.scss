@@ -245,7 +245,7 @@ main {
 
         h2 {
             color: $colorFour;
-            margin: 20px 0;
+            margin-top: 20px;
 
             @media (max-width: 624px) { // <==
                 font-size: 2.8rem;
@@ -278,7 +278,7 @@ main {
             color: $colorFour;
             font-size: 1.5rem;
             line-height: 1.6;
-            margin: 20px 0;
+            margin-bottom: 20px;
 
              strong {
                 color: $colorOne;

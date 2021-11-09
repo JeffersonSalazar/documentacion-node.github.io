@@ -249,7 +249,7 @@ main .box_content_index {
 
 main .box_content_index h2 {
   color: #5c5b5b;
-  margin: 20px 0;
+  margin-top: 20px;
 }
 
 @media (max-width: 624px) {
@@ -286,7 +286,7 @@ main .box_content_index p {
   color: #5c5b5b;
   font-size: 1.5rem;
   line-height: 1.6;
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
 
 main .box_content_index p strong {
